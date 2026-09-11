@@ -1,3 +1,0 @@
-/home/ncutler/Documents/Programming/nvram_crc_testbench/build/CMakeFiles/unit_tests.dir
-/home/ncutler/Documents/Programming/nvram_crc_testbench/build/CMakeFiles/edit_cache.dir
-/home/ncutler/Documents/Programming/nvram_crc_testbench/build/CMakeFiles/rebuild_cache.dir
